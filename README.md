@@ -4,13 +4,13 @@ A collection of **AI-based** works organized by sub-categories.
 ## Repository Format 
 ### Subcategories
 The **subcategories** in this repository include: 
-- Pre-Requisite Mathematics 
 - Convolutional Networks 
 - Deep Neural Networks 
 - Fitting Models 
 - Gradients and Initialization 
 - Loss Functions 
-- Measuring Performance 
+- Measuring Performance
+- Pre-Requisite Mathematics  
 - Regularization 
 - Shallow Neural Networks 
 - Supervised Learning 
