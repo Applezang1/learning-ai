@@ -1,5 +1,5 @@
 # learning-ai
-A collection of **AI-based** works organized by sub-categories.
+A collection of **AI-based** implementations organized by sub-categories. The implementations are based on coding exercises in "Understanding Deep Learning" by Simon J.D. Prince.
 
 ## Repository Format 
 ### Subcategories
