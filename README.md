@@ -3,9 +3,11 @@ A collection of **AI-based** implementations organized by sub-categories. The im
 
 ## Repository Format 
 ### Subcategories
-The **subcategories** in this repository are listed below. Each subcategory contains a summary of topic, written in a markdown file; Python code demonstrating a function prevalent in the subcategory; and Jupyter notebooks, which provides a detailed explanation of the code 
+The **subcategories** in this repository are listed below. 
 
-| Category | Theory | Source | Interactive |
+Each subcategory contains a summary of topic, written in a markdown file; Python code demonstrating a function prevalent in the subcategory; and Jupyter notebooks, which provides a detailed explanation of the code 
+
+| Subcategory | Theory | Implementation | Notebook |
 | :--- | :---: | :---: | :---: |
 | **Convolutional Networks** | [Summary](./Convolutional_Networks/convolutional_networks.md) | [Code](./Convolutional_Networks/Code) | [Notebooks](./Convolutional_Networks/Notebooks) |
 | **Deep Neural Networks** | [Summary](./Deep_Neural_Networks/deep_neural_networks.md) | [Code](./Deep_Neural_Networks/Code) | [Notebooks](./Deep_Neural_Networks/Notebooks) |
